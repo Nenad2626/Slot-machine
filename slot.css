@@ -1,0 +1,205 @@
+
+.allMachines  {
+
+width: 500px;
+height: 500px;
+border: 1px solid black;
+border-radius: 10px;
+position: absolute;
+left: 350px;
+top: 100px;
+background: repeating-conic-gradient(orange 0 9deg, gray 9deg 18deg);
+
+}
+
+.machine {
+
+position: absolute;
+left: 150px;
+top: 100px;
+width: 202px;
+height: 260px;
+border: 1px solid black;
+border-radius: 10px;
+margin: 0 auto;
+overflow-y: hidden;
+
+}
+
+.allSlot  {
+
+width: 50px;
+height: 50px;
+border: 1px solid black;
+background: black;
+margin-left: 0px;
+
+}
+
+@keyframes up {
+
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-620%);
+  }
+}
+
+
+img {
+
+width: 50px;
+height: 50px;
+
+}
+
+.slot2 {
+
+margin-left: 50px;
+margin-top: -572px;
+
+}
+
+.slot3 {
+
+margin-left: 100px;
+margin-top: -572px;
+
+}
+
+.slot4 {
+
+margin-left: 150px;
+margin-top: -572px;
+
+}
+
+.start {
+
+position: absolute;
+top: 395px;
+left: 220px;
+border-radius: 10px;
+padding: 13px;
+background: darkcyan;
+color: white;
+font-family: Verdana;
+outline: none;
+
+}
+
+
+.tickTock {
+
+visibility: hidden;
+
+}
+
+.winning {
+
+background: repeating-conic-gradient(olivedrab 0 9deg, black 9deg 18deg);
+color: white;
+position: absolute;
+top: 445px;
+left: 308px;
+font-family: Verdana;
+width: 95px;
+height: 25px;
+border: 1px solid white;
+border-radius: 5px;
+text-align: center;
+padding: 10px;
+
+}
+
+.bet {
+
+background: repeating-conic-gradient(#3B5998 0 9deg, black 9deg 18deg);
+color: white;
+position: absolute;
+top: 445px;
+left: 105px;
+width: 95px;
+height: 25px;
+border: 1px solid white;
+border-radius: 5px;
+padding: 10px;
+text-align: center;
+
+}
+
+
+.gether  {
+
+position: absolute;
+top: 365px;
+left: 100px;
+
+}
+
+.win  {
+
+width: 100px;
+font-family: Verdana;
+text-align: center;
+outline: none;
+
+}
+
+
+.fruitA {
+
+
+} 
+
+.fruitB {
+
+} 
+
+.fruitC {
+
+
+} 
+
+.fruitD {
+
+
+
+}
+
+.fruitE {
+
+
+}
+
+.fruitF {
+
+
+
+} 
+
+.fruitG {
+
+
+} 
+
+.fruitH {
+
+
+} 
+
+.fruitI {
+
+
+} 
+
+.fruitJ {
+
+
+} 
+
+.fruitK {
+
+
+}
