@@ -6,7 +6,7 @@ height: 500px;
 border: 1px solid black;
 border-radius: 10px;
 position: absolute;
-left: 350px;
+left: 550px;
 top: 100px;
 background: repeating-conic-gradient(orange 0 9deg, gray 9deg 18deg);
 
@@ -15,7 +15,7 @@ background: repeating-conic-gradient(orange 0 9deg, gray 9deg 18deg);
 .machine {
 
 position: absolute;
-left: 350px;
+left: 150px;
 top: 100px;
 width: 202px;
 height: 260px;
